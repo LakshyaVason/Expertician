@@ -45,6 +45,7 @@ label.logo {
   padding: 0 100px;
   font-weight: bold;
   background-color: #555;
+  font-family: 'Tilt Prism', cursive;
 }
 /* Nav bar */
 .nav {
@@ -714,7 +715,4 @@ div.content p {
 .active,
 .demo:hover {
   opacity: 1;
-}
-
-.main-info {
 }
