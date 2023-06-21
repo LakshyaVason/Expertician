@@ -44,7 +44,7 @@ label.logo {
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
-  background-color: #555;
+  background-color: #fff;
   font-family: 'Tilt Prism', cursive;
 }
 /* Nav bar */
@@ -59,8 +59,8 @@ label.logo {
 .nav-links {
   flex: 1;
   text-align: right;
-  background-color: #555;
-  color: #e0e25b;
+  background-color: #fff;
+  color: #000;
 }
 
 .nav-links ul {
